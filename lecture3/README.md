@@ -1,8 +1,8 @@
 # Отладчик. Прерывания 
 
 
-- [Слайды](#)
-- [Запись лекции](#)
+- [Слайды](https://docs.google.com/presentation/d/1AzUruhgonMkmYXnB5bQ1zLPV0VV0OlwqtIqruqm16So/edit?usp=sharing)
+- [Запись лекции](https://www.youtube.com/watch?v=RYSv68V8U-Q)
 
 ## Домашка
 
