@@ -1,8 +1,7 @@
-# Отладчик. Прерывания 
+# Условные переходы. Циклы.
 
-
-- [Слайды](#)
-- [Запись лекции](#)
+- [Слайды](https://docs.google.com/presentation/d/1xhGBAFwGLSKRS-0w6UN-2Opv73r_B3t7WI-N7qnMRR4/edit?usp=sharing)
+- [Запись лекции](https://www.youtube.com/watch?v=RYSv68V8U-Q)
 
 ## Домашка
 
